@@ -24,4 +24,5 @@ Obs. Note que o botão de excluir e alterar está acoplado junto á consulta.
 <br>
 #
 
-BBrigante
+Créditos ao canal Café com Bug.
+Por: <a href="https://github.com/BBrigante">Bruno Brigante</a>
